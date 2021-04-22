@@ -17,7 +17,7 @@ How to use this script:
 **Step 2:** Paste the pathway to the _pixelator executable into the terminal and press enter. If you don't know where the exe is, you can find its location in the Show>Shell Command setting of the Pixelator application.  
 **Step 3:** Paste the pathway to the raw _folder_ into the terminal and press enter.  
 **Step 4:** Paste the pathway to the fried folder _placeholder image_ into the terminal and press enter.  
-**Step 5:** Confirm that each path is correct, press Y (case-sensitive), then press enter. If any path is incorrect, type anything besides Y and press enter. You will be brought to the start to fix it. 
+**Step 5:** Confirm that each path is correct, press Y (case-sensitive), then press enter. If any path is incorrect, type anything besides Y and press enter. You will be brought to the start to fix it.   
 **Step 6:** ...  
 **Step 7:** Profit!
 
