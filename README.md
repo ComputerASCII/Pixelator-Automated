@@ -21,5 +21,4 @@ How to use this script:
 **Step 6:** ...  
 **Step 7:** Profit!
 
-    If anything goes wrong, it's almost certainly not a bug.
-    You just did something wrong. Potentially something not listed in the instructions.
+    If anything goes wrong, let me know, and we'll work it out together.
