@@ -7,8 +7,8 @@ How to use this script:
 
 **Vocabulary:**
 	
-  raw folder = The folder where unpixeliated(raw) images are placed  
-  fried folder = The folder where pixeliated(fried) images are placed.  
+  raw folder = The folder where unpixelated(raw) images are placed  
+  fried folder = The folder where pixelated(fried) images are placed.  
   _pixelator executable = The pixelatorapp exe that does the pixelization.
   
     Pro-tip: Read the short readme.txt's within each folder.
