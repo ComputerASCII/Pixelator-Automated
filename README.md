@@ -1,6 +1,6 @@
 ![WORK](/Pixelator-Automated/pixelator_automated_banner.png?raw=true)
 
-A script that automates the creation of pixelated images. Requires http://pixelatorapp.com/ to function.
+A script that automates the creation of multiple pixelated images. Requires http://pixelatorapp.com/ to function.
 
 How to use this script:
 =========
